@@ -1,0 +1,17 @@
+{
+   "expo": {
+    "name": "Your App Name",
+    "icon": "./path/to/your/app-icon.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "sdkVersion": "XX.0.0",
+    "ios": {
+      "bundleIdentifier": "com.I C U Hospital Camera. I C U Hospital",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.I C U Hospital Camera.I C U Hospital ",
+      "versionCode": 1
+    }
+   }
+ }
