@@ -1,4 +1,4 @@
-// src/camera.page.js file
+
 import React from 'react';
 import { Camera } from 'expo-camera';
 import { View, Text } from 'react-native';
