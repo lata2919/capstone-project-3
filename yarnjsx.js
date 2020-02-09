@@ -15,20 +15,20 @@
   version "7.2.2"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.2.2.tgz#07adba6dde27bb5ad8d8672f15fde3e08184a687"
   dependencies:
-    "@babel/code-frame" "^7.0.0",
-    "@babel/generator" "^7.2.2",
-    "@babel/helpers" "^7.2.0",
-    "@babel/parser" "^7.2.2",
-    "@babel/template" "^7.2.2",
-    "@babel/traverse" "^7.2.2",
+    "@babel/code-frame" "^7.0.0"
+    "@babel/generator" "^7.2.2"
+    "@babel/helpers" "^7.2.0"
+    "@babel/parser" "^7.2.2"
+    "@babel/template" "^7.2.2"
+    "@babel/traverse" "^7.2.2"
     "@babel/types" "^7.2.2",
-    convert-source-map "^1.1.0",
-    debug "^4.1.0",
-    json5 "^2.1.0",
-    lodash "^4.17.10",
-    resolve "^1.3.2",
-    semver "^5.4.1",
-    source-map "^0.5.0",
+    convert-source-map "^1.1.0"
+    debug "^4.1.0"
+    json5 "^2.1.0"
+    lodash "^4.17.10"
+    resolve "^1.3.2"
+    semver "^5.4.1"
+    source-map "^0.5.0"
 
 "@babel/generator@^7.0.0", "@babel/generator@^7.2.2":
   version "7.2.2"
