@@ -1,4 +1,4 @@
-// App.js file
+
 import React from 'react';
 
 import CameraPage from './src/camera.page';
